@@ -45,4 +45,3 @@ public:
 
      return 0;
  }//Destructor Dipanggil
- 
