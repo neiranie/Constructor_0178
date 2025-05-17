@@ -44,4 +44,4 @@ public:
      delete ptrBelajarcpp; //Destructor Dipanggil
 
      return 0;
- }//Destructor Dipanggi
+ }//Destructor Dipanggil
